@@ -47,7 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> >I have python 2.7 (preinstalled on mac) and then I installed python 3.8 to do a udemy course, but realized different libraries like tensorflow etc require or work better with different versions of python so now I just use virtual environments depending on whatever it is im trying to do, but my base environment is 3.7.4 which works pretty well with most things. 
 
 ### Q2. Which Python Version Installed   
 
@@ -55,7 +55,7 @@ In the Terminal:
 
 `python3 --version`
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> inside my base environment (automatically activates when opening terminal) 3.7.4 otherwise 3.8.1
 
  
 
