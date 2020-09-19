@@ -18,7 +18,6 @@ Increasing the number of simulations for estimating the mean and median did have
 the biased estimator had a lower RMSE than the unbiased estimator even when the number of simulations increased.
 
 ### Exercise 8-2:
-* Confidence interval: 1.2643307825818018 to 3.719350661228308
 | Italic             |  Block letters |
 :----------------:|:----------------:
 ![](img_files/expon_sample_dist.png) | ![](img_files/rmse_sample_sizes.png)
