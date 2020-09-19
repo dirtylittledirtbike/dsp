@@ -20,5 +20,5 @@ the biased estimator had a lower RMSE than the unbiased estimator even when the 
 ### Exercise 8-2:
 * Confidence interval: 1.2643307825818018 to 3.719350661228308
 | Italic             |  Block letters |
-:---------------------------------------------------------------:|:---------------------------------------------------------------:
-![expon_dist](img_files/expon_sample_dist.png) | ![RMSE_v_sample_size](img_files/rmse_sample_sizes.png)
+:----------------:|:----------------:
+![](img_files/expon_sample_dist.png) | ![](img_files/rmse_sample_sizes.png)
